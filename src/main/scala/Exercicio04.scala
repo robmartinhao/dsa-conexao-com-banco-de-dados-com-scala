@@ -3,10 +3,6 @@ import org.apache.spark.ml.regression.{LinearRegression}
 import org.apache.log4j._
 import org.apache.spark.sql.SparkSession
 
-/**
-  * Created by suema on 05/07/2017.
-  * Oracle, Spark e ML
-  */
 object Exercicio04 {
 
   def main(args: Array[String]): Unit = {
