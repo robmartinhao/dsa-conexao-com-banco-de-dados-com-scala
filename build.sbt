@@ -13,3 +13,4 @@ libraryDependencies += "org.apache.spark" %% "spark-mllib" % "2.1.1" % "provided
 // https://mvnrepository.com/artifact/org.apache.spark/spark-sql
 libraryDependencies += "org.apache.spark" %% "spark-sql" % "2.1.1"
 
+libraryDependencies += "org.mongodb.scala" %% "mongo-scala-driver" % "4.2.0"
